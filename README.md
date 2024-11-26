@@ -1,4 +1,5 @@
-It is an application that allows the user to record the tasks that he wants to be reminded of, such as a doctor's appointment, class sessions, and other tasks. The application will remind the user of the specific tasks 5-20 minutes before, according to the user's choice, by sending a reminder notification, even if the application is closed. I used in this project : sqflite, Getx, localnotification
+It is an application that allows the user to record the tasks that he wants to be reminded of, such as a doctor's appointment, class sessions, and other tasks. The application will remind the user of the specific tasks 5-20 minutes before, according to the user's choice, by sending a reminder notification, even if the application is closed ,with the possibility of repeating the reminder every day, week, month or year according to the user’s desire. I used in this project : sqflite, Getx, localnotification
+
 ![photo_2024-11-14_15-00-09](https://github.com/user-attachments/assets/6621e60d-79d8-46b1-8fbe-e455018f4e14)
 ![photo_2024-11-14_15-01-35](https://github.com/user-attachments/assets/dc9a3112-df87-4b93-b951-aec3a01952ec)
 ![photo_2024-11-14_15-01-46](https://github.com/user-attachments/assets/a5c04dbb-77a2-46a7-8056-b95ccd927979)
